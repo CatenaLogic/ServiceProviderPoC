@@ -1,4 +1,4 @@
-﻿namespace ServiceProviderPoC.Services
+﻿namespace ServiceProviderPoC
 {
     using Catel;
     using Microsoft.Extensions.DependencyInjection;
